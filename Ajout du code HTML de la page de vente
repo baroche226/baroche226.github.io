@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Devenir un homme 'vrai'</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+      padding: 40px;
+    }
+    .card {
+      background-color: white;
+      padding: 30px;
+      max-width: 400px;
+      margin: auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #0072c6;
+    }
+    p {
+      color: #333;
+    }
+    .btn {
+      background-color: #0078d4;
+      color: white;
+      padding: 12px 20px;
+      text-decoration: none;
+      border-radius: 6px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    .btn:hover {
+      background-color: #005a9e;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🚀 Devenir un homme 'vrai'</h1>
+    <p>Un guide puissant pour transformer ta vie, ta vision et ta virilité.</p>
+    <p>📘 Prix : 2 000 FCFA</p>
+    <a class="btn" href="https://wa.me/22658856876" target="_blank">Commander sur WhatsApp</a>
+  </div>
+</body>
+</html>
